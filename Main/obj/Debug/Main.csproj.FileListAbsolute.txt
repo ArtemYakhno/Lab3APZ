@@ -1,0 +1,7 @@
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\bin\Debug\Main.exe.config
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\bin\Debug\Main.exe
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\bin\Debug\Main.pdb
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\obj\Debug\Main.exe
+F:\НАУ\Курс 2\2 семестр\АПЗ\Lab2APZ\Main\obj\Debug\Main.pdb
